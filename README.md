@@ -13,3 +13,5 @@ It is clear from graph that their is a sudden surge in arrival num of couples an
 
 # Persentation
 "C:\Users\GAUTAM KUMAR ADARSHI\Downloads\hotel booking analysis presentation.pptx"
+# Colab Link
+https://colab.research.google.com/drive/17JZlKEkSWJn9fzGvmlHcno6fbeTfZq4O?usp=sharing
